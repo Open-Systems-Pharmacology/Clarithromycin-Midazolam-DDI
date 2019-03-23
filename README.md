@@ -1,7 +1,9 @@
 # Clarithromycin-Midazolam-DDI
 Modeling of published clinical Clarithromycin-Midazolam-DDI studies for model evaluation 
 
-![gim](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Midazolam-DDI/blob/master/Clarithromycin-Midazolam-DDI.png)
+<p align="center">
+  <img src="Clarithromycin-Midazolam-DDI.png">
+</p>
 
 ## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Clarithromycin-Midazolam-DDI, including the respective observed data digitized from literature reports. For further details and documentation please refer to [[1](#reference)]. 
