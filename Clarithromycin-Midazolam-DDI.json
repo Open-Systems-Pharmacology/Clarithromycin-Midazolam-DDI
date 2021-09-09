@@ -43,7 +43,7 @@
         },
         {
           "Path": "ATP1A2|Reference concentration",
-          "Value": 0.47661714,
+          "Value": 0.39140774,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "Unknown"
@@ -79,7 +79,7 @@
         },
         {
           "Path": "GABRG2|Reference concentration",
-          "Value": 1.0877710492,
+          "Value": 1.04099689,
           "Unit": "µmol/l",
           "ValueOrigin": {
             "Source": "Unknown"
