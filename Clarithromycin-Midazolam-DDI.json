@@ -10613,7 +10613,9 @@
     {
       "Name": "DDI Treatment - Rifampicin/Clarithromycin/Midazolam - van Dyk 2018",
       "Model": "4Comp",
-      "Solver": {},
+      "Solver": {
+        "AbsTol": 1E-12
+      },
       "OutputSchema": [
         {
           "Parameters": [
@@ -11187,7 +11189,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Clarithromycin-Midazolam-DDI\nDDI Treatment - Rifampicin/Clarithromycin/Midazolam - van Dyk 2018\n2020-04-02 09:56"
+          "OriginText": "Clarithromycin-Midazolam-DDI\nDDI Treatment - Rifampicin/Clarithromycin/Midazolam - van Dyk 2018\n2021-10-12 18:55"
         }
       ],
       "Interactions": [
